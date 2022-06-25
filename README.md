@@ -1,3 +1,9 @@
 # Template Rust Api
 
-Template to create new Rust Api using Tokio
+Template para criar uma nova api com Rust usando Actix
+
+api_folder\
+|- main.rs
+|- routes.rs
+
+
